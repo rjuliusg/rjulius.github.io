@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## Sci-Fi Movies and Series
+  We all know that Science is cool, especially if you try learning new things everyday. When learning, reading can be very boring, I personally see it as boring and it makes me very sleepy. However, there are many solutions to that, and one that I like the most is watching movies about it. Here are some movies that will help you learn about Science while also being very entertaining.
+  
+### Star Trek
+  ![image](https://user-images.githubusercontent.com/103241776/167341890-60fa74f8-38f5-4077-88f3-9d0023922874.png)
+  
+  One of my favorite series about science. It takes place around 150+ years from now, where people abord starships venture across the galaxy and encounter new species and new worlds. It's a very interesting series with a total watch time (combined series and movie) of 651 hours and 48 minutes. A lot of science stuff goes on, it also shows good examples of problem-solving and critical thinking which is essential to every single person.
+  
+  
 
-You can use the [editor on GitHub](https://github.com/rjuliusg/scifi.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rjuliusg/scifi.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
